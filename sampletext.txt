@@ -1,0 +1,4 @@
+Author: Charles Clarke
+Message: This is a sample text file
+Date: 2020-10-09
+Modified: 2020-15-09
